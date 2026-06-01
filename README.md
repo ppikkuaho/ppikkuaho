@@ -21,6 +21,6 @@ ML systems: [colbert-semantic-search](https://github.com/ppikkuaho/colbert-seman
 
 Backend / SWE: [health-sync](https://github.com/ppikkuaho/health-sync) (HealthKit → CloudKit → DuckDB → Python, durable resumable sync) · [whispert](https://github.com/ppikkuaho/whispert) (serverless transcription on GCP, signed-URL uploads, adaptive ffmpeg chunking)
 
-Graphics / systems: [pixal3d-apple-silicon-port](https://github.com/ppikkuaho/pixal3d-apple-silicon-port) (CUDA image-to-3D path ported to Apple Silicon, validated stage-by-stage against an H100 reference) · [reshade-vulkan-metal-port](https://github.com/ppikkuaho/reshade-vulkan-metal-port) (ReShade effects as a portable Vulkan compute pipeline running on Metal via MoltenVK)
+Graphics / systems: [autonomous-cuda-to-metal-port](https://github.com/ppikkuaho/autonomous-cuda-to-metal-port) (a long-horizon agentic harness driving a CUDA image-to-3D port to Apple Silicon, validated stage-by-stage against an H100 reference) · [reshade-vulkan-metal-port](https://github.com/ppikkuaho/reshade-vulkan-metal-port) (ReShade effects as a portable Vulkan compute pipeline running on Metal via MoltenVK)
 
 Security research: [geo-block-redteam-study](https://github.com/ppikkuaho/geo-block-redteam-study) (a checkout-time geo-restriction safeguard — methodology, findings, and defensive lessons, target abstracted)
